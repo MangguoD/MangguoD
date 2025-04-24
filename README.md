@@ -1,5 +1,5 @@
 ### Hi, I’m Currently learning in HIT
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangguoD&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangguoD&show_icons=true&theme=tokyonight)
 
 To reach me: MangguoD@Outlook.com
 <!---
