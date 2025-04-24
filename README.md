@@ -1,5 +1,5 @@
 - Hi, I’m Currently learning in HIT
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangguoD)](https://github.com/anuraghazra/github-readme-stats)
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangguoD&show_icons=true)
 - How to reach me: MangguoD@Outlook.com
 <!---
